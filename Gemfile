@@ -68,3 +68,6 @@ gem 'devise', '~> 4.9.2'
 gem "tailwindcss-ruby", "~> 4.0"
 
 gem "tailwindcss-rails", "~> 3.3"
+
+gem "pg"
+gem "dotenv"
